@@ -156,7 +156,7 @@ PRH's real, validated course content would plug in unchanged.
 ---
 
 ## Team CareNova
-- **Aishu** ([@Aishu900](https://github.com/Aishu900))
+- **Aishwarya** ([@Aishu900](https://github.com/Aishu900))
 - **Kusuma**
 
 **Thanks** to the Cincinnati Children's PRH clinicians for their time and insights. They shaped everything we built.
