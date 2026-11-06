@@ -161,4 +161,4 @@ PRH's real, validated course content would plug in unchanged.
 
 **Thanks** to the Cincinnati Children's PRH clinicians for their time and insights. They shaped everything we built.
 
-**Built with:** Node.js, plain HTML/CSS/JavaScript, OpenAI API, and AI coding tools (Claude and Claude Code). Problem research, clinician interviews, design decisions, and testing by Team CareNova.
+**Built with:** Node.js, plain HTML/CSS/JavaScript, OpenAI API, and AI coding tools. Problem research, clinician interviews, design decisions, and testing by Team CareNova.
